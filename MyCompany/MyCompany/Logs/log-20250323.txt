@@ -1,0 +1,17 @@
+2025-03-23 13:59:21.427 +02:00 [INF] HTTP GET / responded 200 in 2679.6028 ms
+2025-03-23 13:59:21.548 +02:00 [INF] HTTP GET /css/main.min.css responded 304 in 6.0725 ms
+2025-03-23 13:59:33.947 +02:00 [INF] HTTP GET / responded 200 in 85.5078 ms
+2025-03-23 13:59:38.577 +02:00 [INF] HTTP GET /admin responded 200 in 204.3969 ms
+2025-03-23 13:59:41.127 +02:00 [INF] HTTP GET /Admin/ServicesEdit responded 200 in 164.8673 ms
+2025-03-23 13:59:41.178 +02:00 [INF] HTTP GET /img/ responded 404 in 2.3363 ms
+2025-03-23 13:59:43.645 +02:00 [INF] HTTP GET /admin responded 200 in 14.7701 ms
+2025-03-23 13:59:45.264 +02:00 [INF] HTTP GET /Admin/ServicesEdit responded 200 in 18.6036 ms
+2025-03-23 13:59:45.326 +02:00 [INF] HTTP GET /img/ responded 404 in 0.5824 ms
+2025-03-23 13:59:47.061 +02:00 [INF] HTTP GET /admin responded 200 in 10.6692 ms
+2025-03-23 13:59:48.679 +02:00 [INF] HTTP GET /Admin/ServiceCategoriesEdit responded 200 in 26.7409 ms
+2025-03-23 13:59:51.739 +02:00 [INF] Добавлена/обновлена категория услуг с Id 5
+2025-03-23 13:59:51.742 +02:00 [INF] HTTP POST /Admin/ServiceCategoriesEdit responded 302 in 209.8580 ms
+2025-03-23 13:59:51.773 +02:00 [INF] HTTP GET /Admin responded 200 in 14.0985 ms
+2025-03-23 14:02:06.591 +02:00 [INF] Удалена категория услуги с Id 5
+2025-03-23 14:02:06.592 +02:00 [INF] HTTP POST /Admin/ServiceCategoriesDelete responded 302 in 203.4674 ms
+2025-03-23 14:02:06.622 +02:00 [INF] HTTP GET /Admin responded 200 in 14.5500 ms

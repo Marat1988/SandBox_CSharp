@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\controllers\\admin\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\controllers\\admin\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\views\\admin\\servicesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\admin\\servicesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\controllers\\admin\\servicecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\controllers\\admin\\servicecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\controllers\\admin\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\controllers\\admin\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\views\\admin\\servicecategoriesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\admin\\servicecategoriesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\controllers\\admin\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\controllers\\admin\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\controllers\\admin\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\controllers\\admin\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03D8E306-D9ED-4684-9531-D5FF5B299D98}|MyCompany\\MyCompany.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\mycompany\\mycompany\\views\\services\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Show.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Services\\Show.cshtml",
               "RelativeDocumentMoniker": "MyCompany\\Views\\Services\\Show.cshtml",
@@ -59,72 +67,45 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-23T11:21:46.043Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceCategories.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\ServiceCategories.cs",
-              "RelativeDocumentMoniker": "MyCompany\\Controllers\\Admin\\ServiceCategories.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\ServiceCategories.cs",
-              "RelativeToolTip": "MyCompany\\Controllers\\Admin\\ServiceCategories.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:55:05.04Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:40:48.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Core.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\Core.cs",
-              "RelativeDocumentMoniker": "MyCompany\\Controllers\\Admin\\Core.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\Core.cs",
-              "RelativeToolTip": "MyCompany\\Controllers\\Admin\\Core.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:54:26.307Z",
+              "Title": "ServiceCategoriesEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\ServiceCategoriesEdit.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\Admin\\ServiceCategoriesEdit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\ServiceCategoriesEdit.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\Admin\\ServiceCategoriesEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:40:47.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Program.cs",
-              "RelativeDocumentMoniker": "MyCompany\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Program.cs",
-              "RelativeToolTip": "MyCompany\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:46:54.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\appsettings.json",
-              "RelativeDocumentMoniker": "MyCompany\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\appsettings.json",
-              "RelativeToolTip": "MyCompany\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T11:38:12.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "main.scss",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
-              "RelativeDocumentMoniker": "MyCompany\\wwwroot\\scss\\main.scss",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
-              "RelativeToolTip": "MyCompany\\wwwroot\\scss\\main.scss",
-              "ViewState": "AgIAAHwFAAAAAAAAAAAAAJoFAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-03-23T11:25:50.498Z",
+              "DocumentIndex": 0,
+              "Title": "ServicesEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:38:56.031Z",
               "EditorCaption": ""
             },
             {
@@ -137,7 +118,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\Core.cs",
+              "RelativeDocumentMoniker": "MyCompany\\Controllers\\Admin\\Core.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\Core.cs",
+              "RelativeToolTip": "MyCompany\\Controllers\\Admin\\Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:54:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Program.cs",
+              "RelativeDocumentMoniker": "MyCompany\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Program.cs",
+              "RelativeToolTip": "MyCompany\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:46:54.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\appsettings.json",
+              "RelativeDocumentMoniker": "MyCompany\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\appsettings.json",
+              "RelativeToolTip": "MyCompany\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T11:38:12.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "main.scss",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
+              "RelativeDocumentMoniker": "MyCompany\\wwwroot\\scss\\main.scss",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
+              "RelativeToolTip": "MyCompany\\wwwroot\\scss\\main.scss",
+              "ViewState": "AgIAAHwFAAAAAAAAAAAAAJoFAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-03-23T11:25:50.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Services\\Index.cshtml",
               "RelativeDocumentMoniker": "MyCompany\\Views\\Services\\Index.cshtml",
@@ -145,12 +176,11 @@
               "RelativeToolTip": "MyCompany\\Views\\Services\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T11:23:38.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:23:38.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "MyCompany\\Controllers\\ServicesController.cs",
@@ -158,12 +188,11 @@
               "RelativeToolTip": "MyCompany\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:16:53.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:16:53.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Controllers\\Admin\\Services.cs",
               "RelativeDocumentMoniker": "MyCompany\\Controllers\\Admin\\Services.cs",

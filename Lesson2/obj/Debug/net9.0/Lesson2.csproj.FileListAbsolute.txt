@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\bin\Debug\net9.0\Lesson2.exe
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\bin\Debug\net9.0\Lesson2.deps.json
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\bin\Debug\net9.0\Lesson2.runtimeconfig.json
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\bin\Debug\net9.0\Lesson2.dll
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\bin\Debug\net9.0\Lesson2.pdb
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.sourcelink.json
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.dll
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\refint\Lesson2.dll
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.pdb
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\Lesson2.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\Lesson2\obj\Debug\net9.0\ref\Lesson2.dll

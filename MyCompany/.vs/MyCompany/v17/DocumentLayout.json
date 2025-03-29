@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -67,7 +67,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-23T11:21:46.043Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
@@ -103,18 +112,10 @@
               "RelativeDocumentMoniker": "MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
               "RelativeToolTip": "MyCompany\\Views\\Admin\\ServicesEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-23T12:38:56.031Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
@@ -126,7 +127,8 @@
               "RelativeToolTip": "MyCompany\\Controllers\\Admin\\Core.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:54:26.307Z"
+              "WhenOpened": "2025-03-23T11:54:26.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -149,7 +151,7 @@
               "RelativeDocumentMoniker": "MyCompany\\appsettings.json",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\appsettings.json",
               "RelativeToolTip": "MyCompany\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-23T11:38:12.186Z",
               "EditorCaption": ""
@@ -162,9 +164,10 @@
               "RelativeDocumentMoniker": "MyCompany\\wwwroot\\scss\\main.scss",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
               "RelativeToolTip": "MyCompany\\wwwroot\\scss\\main.scss",
-              "ViewState": "AgIAAHwFAAAAAAAAAAAAAJoFAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHMFAAAAAAAAACBjwJoFAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-03-23T11:25:50.498Z"
+              "WhenOpened": "2025-03-23T11:25:50.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,7 +179,8 @@
               "RelativeToolTip": "MyCompany\\Views\\Services\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T11:23:38.483Z"
+              "WhenOpened": "2025-03-23T11:23:38.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,7 +192,8 @@
               "RelativeToolTip": "MyCompany\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:16:53.68Z"
+              "WhenOpened": "2025-03-23T11:16:53.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

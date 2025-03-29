@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\FinanceApp\wwwroot\lib\chart.js\chart.bundle.min.js
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\FinanceApp\wwwroot\lib\chart.js\chart.css
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\FinanceApp\wwwroot\lib\chart.js\chart.bundle.js
+C:\Users\HP\Documents\GitHub2\SandBox_CSharp\FinanceApp\wwwroot\lib\chart.js\chart.min.css

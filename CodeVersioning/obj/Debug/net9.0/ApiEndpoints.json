@@ -1,49 +1,5 @@
 [
   {
-    "ContainingType": "CodeVersioning.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__0_4",
-    "RelativePath": "api/getdata",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "version",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "CodeVersioning.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__0_5",
-    "RelativePath": "api/getdata",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "version",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
     "ContainingType": "CodeVersioning.Controllers.QueryStringController",
     "Method": "Get1",
     "RelativePath": "api/QueryString",

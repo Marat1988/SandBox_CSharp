@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kYqQxT81urdcxjlyw6vXLA8B3VqrVhSdiBwuq2Xg5f4=",
+  "Hash": "y83d4N1wHmvj4tv1fk266TCDsoKgTggJ26NLHHlEhho=",
   "Source": "MyCompany",
   "BasePath": "_content/MyCompany",
   "Mode": "Default",
@@ -479,27 +479,6 @@
       "OriginalItemSpec": "wwwroot\\img\\_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
-      "SourceId": "MyCompany",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\",
-      "BasePath": "_content/MyCompany",
-      "RelativePath": "img/Новый точечный рисунок#[.{fingerprint}]?.bmp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "42080fbfhr",
-      "Integrity": "TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Новый точечный рисунок.bmp"
-    },
-    {
       "Identity": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\bg.png",
       "SourceId": "MyCompany",
       "SourceType": "Discovered",
@@ -855,6 +834,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\q4h23oujj3hatz9ej2064dysl8czh62p.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
+      "SourceId": "MyCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\",
+      "BasePath": "_content/MyCompany",
+      "RelativePath": "img/Новый точечный рисунок#[.{fingerprint}]?.bmp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42080fbfhr",
+      "Integrity": "TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Новый точечный рисунок.bmp"
     },
     {
       "Identity": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\js\\breakpoints.min.js",
@@ -2507,304 +2507,6 @@
       ]
     },
     {
-      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000007631316"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131038"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "42080fbfhr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Новый точечный рисунок.bmp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
-        }
-      ]
-    },
-    {
-      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6220854"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "42080fbfhr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Новый точечный рисунок.bmp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
-        }
-      ]
-    },
-    {
-      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp.gz",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131038"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "42080fbfhr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Новый точечный рисунок.bmp.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/Новый точечный рисунок.bmp",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000007631316"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131038"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
-        }
-      ]
-    },
-    {
-      "Route": "img/Новый точечный рисунок.bmp",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6220854"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
-        }
-      ]
-    },
-    {
-      "Route": "img/Новый точечный рисунок.bmp.gz",
-      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131038"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ="
-        }
-      ]
-    },
-    {
       "Route": "img/bg.png",
       "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\bg.png",
       "Selectors": [],
@@ -4411,6 +4113,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-E2F6wXWT2Wugqns1rrPh9m+Dmo/xTi/h1wQfJULM5AI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000007631316"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131038"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42080fbfhr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Новый точечный рисунок.bmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6220854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42080fbfhr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Новый точечный рисунок.bmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.42080fbfhr.bmp.gz",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42080fbfhr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Новый точечный рисунок.bmp.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.bmp",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000007631316"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131038"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.bmp",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\wwwroot\\img\\Новый точечный рисунок.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6220854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL6t+5kWnXpLGZVZ6UKLAN6LbI1u8dbD+UQzwwif//A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Новый точечный рисунок.bmp.gz",
+      "AssetFile": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\wy53qv4xgn-42080fbfhr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 16:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SEN7wHUfyc1PeSQQfyir6WXwUmpnHLN7KihTwXrJfrQ="
         }
       ]
     },

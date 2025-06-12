@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\codeversioning\\controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\codeversioning\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\codeversioning\\controllers\\urlsegmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:controllers\\urlsegmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\codeversioning\\models\\v1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:models\\v1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\codeversioning\\controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A5401F9-BA2C-45AB-B00B-3A2B8694D7CE}|CodeVersioning.csproj|solutionrelative:controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T13:10:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QueryStringController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Controllers\\QueryStringController.cs",
               "RelativeDocumentMoniker": "Controllers\\QueryStringController.cs",
@@ -46,8 +62,7 @@
               "RelativeToolTip": "Controllers\\QueryStringController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:44:47.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:44:47.546Z"
             },
             {
               "$type": "Document",
@@ -57,14 +72,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwD4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T13:27:56.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Models\\V1\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Models\\V1\\WeatherForecast.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "Models\\V1\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:27:51.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:27:51.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UrlSegmentController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\CodeVersioning\\Controllers\\UrlSegmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\UrlSegmentController.cs",
@@ -85,8 +99,7 @@
               "RelativeToolTip": "Controllers\\UrlSegmentController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAQwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:27:45.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:27:45.93Z"
             }
           ]
         }

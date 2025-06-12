@@ -1,6 +1,0 @@
-@CodeVersioning_HostAddress = http://localhost:5204
-
-GET {{CodeVersioning_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

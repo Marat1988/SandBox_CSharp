@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-12T20:26:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VideoGame.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Models\\VideoGame.cs",
               "RelativeDocumentMoniker": "Models\\VideoGame.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IVideoGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\IVideoGameRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IVideoGameRepository.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VideoGameController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\VideoGameController.cs",
               "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VideoGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\VideoGameRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\VideoGameRepository.cs",

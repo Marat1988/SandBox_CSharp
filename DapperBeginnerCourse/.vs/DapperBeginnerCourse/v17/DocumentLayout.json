@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\repositories\\ivideogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:repositories\\ivideogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|c:\\users\\hp\\documents\\github2\\sandbox_csharp\\dapperbeginnercourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C0E0A5-665D-472F-9DE3-9CD87296C749}|DapperBeginnerCourse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-12T20:26:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:47:01.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Models\\VideoGame.cs",
+              "RelativeDocumentMoniker": "Models\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Models\\VideoGame.cs",
+              "RelativeToolTip": "Models\\VideoGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:22:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:19:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVideoGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\IVideoGameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IVideoGameRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\IVideoGameRepository.cs",
+              "RelativeToolTip": "Repositories\\IVideoGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:47:15.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:46:29.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\VideoGameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VideoGameRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\SandBox_CSharp\\DapperBeginnerCourse\\Repositories\\VideoGameRepository.cs",
+              "RelativeToolTip": "Repositories\\VideoGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:33:46.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
